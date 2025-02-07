@@ -1,6 +1,6 @@
 ## Just a soft sack of flesh w/ too many interests. 🕳
 
-🌱 I’m currently learning : Processing language 
+🌱 I’m currently learning : Processing language, C# 
 
 🔭 I’m currently working on : Graduate Studies M.A. Art + Tech
 
